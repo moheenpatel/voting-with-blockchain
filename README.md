@@ -4,14 +4,19 @@
 This project presents an innovative Online Voting System built on blockchain technology, aiming to transform traditional electoral practices. Leveraging the security and transparency offered by blockchain, the system ensures integrity, transparency, and accessibility in the voting process. This project leverages blockchain technology to create a robust and tamper-proof voting system.
 
 ## Table of Content
-- [Problem Statement](https://github.com/moheenpatel/voting-with-blockchain/tree/main#problem-statement)
-- [Solution](https://github.com/moheenpatel/voting-with-blockchain/tree/main#solution)
-  - [Technologies Used :](https://github.com/moheenpatel/voting-with-blockchain/tree/main#technologies-used-)
+- [Problem Statement](#problem-statement)
+- [Solution](#solution)
+  - [Technologies Used](#technologies-used-)
+  - [Project Participants and Actions](#project-participants-and-actions-)
+  - [Functions of this Application](#functions-of-this-application-)
+  - [Application Testing and Demo](#application-testing-and-demo-)
+- [Benefits of the online voting system built on blockchain over traditional voting systems](#benefits-of-the-online-voting-system-built-on-blockchain-over-traditional-voting-systems-)
+- [Conclusion](#conclusion)
 
 ## Problem Statement
 The election is a fundamental pillar of a democratic system, which enables the public to express their views in the form of a vote. Due to their significance in our society, the election process should be transparent and reliable to ensure participants of its credibility.
 
-Online voting is a trend that is gaining momentum in modern society. It has great potential to decrease organizational costs and increase voter turnout. It eliminates the need to print ballot papers or open polling stations—voters can vote from wherever there is an Internet connection. Despite these benefits, online voting solutions are viewed with a great deal of caution because of :
+Online voting is a trend that is gaining momentum in modern society. It has great potential to decrease organizational costs and increase voter turnout. It eliminates the need to print ballot papers or open polling stations - voters can vote from wherever there is an Internet connection. Despite these benefits, online voting solutions are viewed with a great deal of caution because of :
 * Eligibility: Only legitimate voters should be able to take part in voting.
 * Non Reusability: Each voter can vote only once.
 * Privacy: No one except the voter can obtain information about the voter’s choice.
@@ -224,7 +229,7 @@ This application provides the following functionalities :
 
 ----
 
-## Benefits of the online voting system built on blockchain over traditional voting systems :
+## Benefits of the online voting system built on blockchain over traditional voting systems
 
 - **Enhanced Transparency :** Blockchain technology ensures transparency by storing immutable records of every transaction or vote, allowing for easy auditing and verification. This transparency helps build trust among voters.
 - **Security and Immutability :** The decentralized nature of blockchain ensures a high level of security. Once a vote is recorded on the blockchain, it cannot be altered or tampered with, ensuring the integrity of the electoral process.
