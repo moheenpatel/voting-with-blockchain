@@ -10,7 +10,7 @@ This project presents an innovative Online Voting System built on blockchain tec
   - [Project Participants and Actions](#project-participants-and-actions-)
   - [Functions of this Application](#functions-of-this-application-)
   - [Application Testing and Demo](#application-testing-and-demo-)
-- [Benefits of the online voting system built on blockchain over traditional voting systems](#benefits-of-the-online-voting-system-built-on-blockchain-over-traditional-voting-systems-)
+- [Benefits of the online voting system built on blockchain over traditional voting systems](#benefits-of-the-online-voting-system-built-on-blockchain-over-traditional-voting-systems)
 - [Conclusion](#conclusion)
 
 ## Problem Statement
