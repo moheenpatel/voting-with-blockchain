@@ -41,17 +41,17 @@ The **Voting Admin** possesses the following capabilities :
 - **Start election:** Initiate the election process.
 - **End election:** Conclude the ongoing election.
 - **Show results:** Display the results of the concluded election.
+- **Register a new voter:** Enable the addition of new voters to participate in the election.
+- **Register a new candidate:** Register a new candidate for participation in the election.
 
 #### 2. Voter
 The **Voter** is equipped with the following functionalities :
-- **Register a new voter:** Enable the addition of new voters to participate in the election.
 - **Vote for the candidate:** Cast a vote for a chosen candidate.
 - **Delegate the voting right:** Allow the transfer of voting rights to another eligible voter.
 - **View voter details:** Access and view specific voter information.
 
 #### 3. Candidate
 The **Candidate** holds the following privileges :
-- **Register a new candidate:** Register a new candidate for participation in the election.
 - **View the list of candidates:** Access the list of registered candidates.
 - **View candidate details:** Retrieve and view specific details of a candidate.
 
