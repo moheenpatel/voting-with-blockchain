@@ -50,31 +50,22 @@ This application provides the following functionalities :
 
 #### 1. Add a New Candidate
 - Adds a new candidate to the election; exclusively available to the admin before the election starts.
-
 #### 2. Add a New Voter
 - Enables the addition of a voter; available only once to the admin before the election begins.
-
 #### 3. Start Election
 - Allows the admin to commence the election by setting the Election state to ONGOING. Requires the address of the contract owner as an input parameter.
-
 #### 4. Display Candidate Details
 - Shows detailed information about a candidate based on the provided candidate ID.
-
 #### 5. Show the Winner of the Election
 - Displays the winner of the election.
-
 #### 6. Delegate Voting Right
 - Enables a voter to delegate their voting rights to another individual.
-
 #### 7. Cast Vote
 - Allows voters to cast their votes.
-
 #### 8. End the Election
 - Permits the admin to conclude the ongoing election. This function can only be executed by the admin (contract owner).
-
 #### 9. Show Election Results (Candidate-wise)
 - Presents the number of votes received by any given candidate.
-
 #### 10. View Voter’s Profile
 - Displays the voter's profile information based on the voter’s address, including:
   - Voter’s name
