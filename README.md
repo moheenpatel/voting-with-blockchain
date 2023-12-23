@@ -3,6 +3,11 @@
 ## Description
 This project presents an innovative Online Voting System built on blockchain technology, aiming to transform traditional electoral practices. Leveraging the security and transparency offered by blockchain, the system ensures integrity, transparency, and accessibility in the voting process. This project leverages blockchain technology to create a robust and tamper-proof voting system.
 
+## Table of Content
+- [Problem Statement](https://github.com/moheenpatel/voting-with-blockchain/tree/main#problem-statement)
+- [Solution](https://github.com/moheenpatel/voting-with-blockchain/tree/main#solution)
+  - [Technologies Used :](https://github.com/moheenpatel/voting-with-blockchain/tree/main#technologies-used-)
+
 ## Problem Statement
 The election is a fundamental pillar of a democratic system, which enables the public to express their views in the form of a vote. Due to their significance in our society, the election process should be transparent and reliable to ensure participants of its credibility.
 
